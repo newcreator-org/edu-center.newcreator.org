@@ -1,5 +1,7 @@
 # Edu center
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5d67d08f-2b13-476e-88bf-d2655b5f0394/deploy-status)](https://app.netlify.com/sites/edu-center/deploys)
+
 ---
 
 ## 必要なツール
