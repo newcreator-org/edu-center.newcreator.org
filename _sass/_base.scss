@@ -14,14 +14,20 @@ html {
 }
 
 html {
-  font-family: "Noto Sans Japanese", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
-
+  font-family: 'Source Sans Pro',
+    'Helvetica Neue',
+    Helvetica,
+    "Noto Sans Japanese",
+    "Hiragino Kaku Gothic ProN",
+    Meiryo,
+    sans-serif;
   font-size: 18px;
   font-weight: 300;
   line-height: 1.6;
+
   @media (min-width: 38em) {
     font-size: 20px;
-}
+  }
 }
 
 body {
@@ -91,6 +97,6 @@ img {
   padding-top: 20px;
 }
 
-small{
+small {
   font-size: 12px;
 }
