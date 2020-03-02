@@ -9,13 +9,13 @@
 title: "Help Center"
 email: gusquinalha@gmail.com
 description: "Simple and flexible Jekyll theme for help center."
-baseurl: "/jekyll-help-center-theme"
-url: "http://quinalha.me"
+baseurl: ""
+url: ""
 twitter_username: "gustavoquinalha"
 github_username:  "gustavoquinalha"
-color_theme:  "#0081ff"
+color_theme:  "#000"
 color_text:  "#fff"
-language:  "en"
+language:  "ja"
 
 # Build settings
 markdown: kramdown
