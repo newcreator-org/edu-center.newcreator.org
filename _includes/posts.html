@@ -13,7 +13,7 @@
     <div class="flex-grow-1">
       <div class="" data-aos="fade-up" data-aos-delay="600" data-aos-offset="0">
         <h2 class="list-post-title">
-        {{ post.title }}
+        {{ post.title }} <small>by {{ post.by }}</small>
         </h2>
       </div>
 
@@ -21,10 +21,10 @@
         <span class="list-post-description">{{ post.description }}</span>
       </div>
 
-      <div class="list-post-written" data-aos="fade-up" data-aos-delay="700" data-aos-offset="0">
+      <!-- <div class="list-post-written" data-aos="fade-up" data-aos-delay="700" data-aos-offset="0">
         <small>Written by <span>{{ post.by }}</span>-</small>
-        <small><time>{{ post.date | date_to_string }}</time></small>
-      </div>
+        <small><time>{{ post.date | date: "%Y年%m月%d日" }}</time></small>
+      </div> -->
     </div>
 
   </a>
