@@ -28,6 +28,9 @@
       padding-right: 20px;
       font-size: 2rem;
       color: $colortheme;
+      > img{
+        max-width: 55px;
+      }
     }
 
     .list-post-title {
