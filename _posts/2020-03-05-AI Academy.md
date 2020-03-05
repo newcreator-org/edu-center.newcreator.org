@@ -2,7 +2,7 @@
 layout: post
 title: 'AI Academy'
 target: '全年齢対象'
-description: 'Python・機械学習・AIを実践的に学べるプログラミング学習サービス。4月2日まで無償提供中。コンテンツ開放方法は、[TwitterのDM](https://twitter.com/tankazunori0914)もしくは[メール](mailto:aiacademy@cyberbra.in) にて連絡。'
+description: 'Python・機械学習・AIを実践的に学べるプログラミング学習サービス。4月2日まで無償提供中。'
 date: 2020-03-05 13:39:00 +0900
 categories: programming
 by: 'CyberBrain Inc.'
