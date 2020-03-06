@@ -28,3 +28,17 @@ $ npm run dev
 ```
 
 4000番ポートが開くので、 [http://localhost:4000](http://localhost:4000)にアクセスしてください。
+
+## コミット
+
+```
+$ git add <SOME_FILES>
+```
+
+でcommitを行った後に、
+
+```
+$ npm run commit
+```
+
+を行ってください。対話式で概要などを選択することが可能です。
