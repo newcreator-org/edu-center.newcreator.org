@@ -1,9 +1,11 @@
 <footer>
   <div class="footer container column align-items-center justify-content-center">
     <div class="footer--block text-align-center">
-      <div class="" data-aos="fade-up" data-aos-delay="" data-aos-offset="0">
-        <a href="{{ site.baseurl }}/"><span>{{ site.title }} </span><small>by {{ site.username }}</small></a>
+            {% include footer_share.html %}
+      <div class="margin-top-10" data-aos="fade-up" data-aos-delay="" data-aos-offset="0">
+       <a href="{{ site.baseurl }}/"><span>{{ site.title }} </span><small>by {{ site.username }}</small></a>
       </div>
+
       <div class="" data-aos="fade-up" data-aos-delay="" data-aos-offset="0">
         <small class="copyright">© 2020 <a href="https://www.new.or.jp">特定非営利活動法人ニュークリエイター・オルグ</a></small>
       </div>
